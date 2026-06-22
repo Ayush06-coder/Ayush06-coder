@@ -1,9 +1,16 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Ayush Sawhney Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ayush Sawhney</h1>
-<h3 align="center">B.Tech CSE Student | Aspiring Software Engineer | AI & ML Enthusiast</h3>
+
+<h3 align="center">
+B.Tech CSE Student | Aspiring Software Engineer | AI & ML Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://github.com/Ayush06-coder">
-    <img src="https://komarev.com/ghpvc/?username=Ayush06-coder&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Ayush06-coder&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -14,6 +21,7 @@
 🎓 B.Tech Computer Science Engineering Student (2024–2028)
 
 💻 Passionate about:
+
 - Software Development
 - Artificial Intelligence
 - Machine Learning
@@ -21,13 +29,15 @@
 - Backend Development
 
 🌱 Currently Learning:
+
 - Machine Learning
 - Deep Learning
 - FastAPI
 - NLP
 - Data Structures & Algorithms
 
-🎯 Goal:
+🎯 Goals:
+
 - Build impactful AI-powered applications
 - Contribute to Open Source
 - Secure a Software Engineering Internship
@@ -67,33 +77,26 @@ An end-to-end resume screening and candidate management platform built using:
 - spaCy
 - SQLite
 
-### Key Features
+### Features
 
-✅ Resume Parsing
-
-✅ Skills Extraction
-
-✅ Education Extraction
-
-✅ Experience Extraction
-
-✅ Candidate Database
-
-✅ Job Description Matching
-
-✅ Candidate Ranking System
-
+✅ Resume Parsing  
+✅ Skills Extraction  
+✅ Education Extraction  
+✅ Experience Extraction  
+✅ Candidate Database  
+✅ Job Description Matching  
+✅ Candidate Ranking System  
 ✅ Search & Filter Candidates
 
-🔗 Repository:
-**https://github.com/Ayush06-coder/resume-parser-project**
+🔗 **Project Repository:**  
+[Resume Parser Project](https://github.com/Ayush06-coder/resume-parser-project)
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush06-coder&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush06-coder&show_icons=true" />
 </p>
 
 <p align="center">
@@ -108,7 +111,6 @@ An end-to-end resume screening and candidate management platform built using:
 
 ## 📚 Current Focus
 
-- Building Production-Ready Projects
 - Machine Learning
 - Deep Learning
 - NLP Applications
@@ -119,14 +121,12 @@ An end-to-end resume screening and candidate management platform built using:
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn:
-www.linkedin.com/in/ayush-sawhney-b8476a34b
+💼 LinkedIn  
+https://www.linkedin.com/in/ayush-sawhney-b8476a34b
 
-🐙 GitHub:
+🐙 GitHub  
 https://github.com/Ayush06-coder
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy building projects that solve real-world problems and help me learn new technologies through hands-on development.
+### ⚡ Learning by Building.
