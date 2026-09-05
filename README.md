@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Sawhney</h1>
 
 <h3 align="center">
-Computer Science Engineer | AI/ML & Backend Developer
+B.Tech CSE Student | AI/ML & Backend Developer
 </h3>
 
 ---
