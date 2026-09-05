@@ -42,7 +42,6 @@ Computer Science Engineer | AI/ML & Backend Developer
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
@@ -112,35 +111,11 @@ A modular AI system designed to evaluate AI-generated answers using **independen
 
 ---
 
-### 📊 Student Performance Prediction
-
-Machine-learning project focused on analyzing student data and predicting academic performance.
-
-🔗 **[Repository](https://github.com/Ayush06-coder/Machine-Learning-Project-on-Student-Performance-Prediction-Analysis)**
-
----
-
 ## 💼 Experience
 
 ### Software Development Intern — Team Computers
 
 Worked in a professional software-development environment, gaining practical experience in development workflows, engineering practices, and building software beyond academic projects.
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush06-coder&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush06-coder" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush06-coder&layout=compact" />
-</p>
 
 ---
 
