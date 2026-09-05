@@ -8,12 +8,6 @@
 Computer Science Engineer | AI/ML & Backend Developer
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Ayush06-coder">
-    <img src="https://komarev.com/ghpvc/?username=Ayush06-coder&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
